@@ -8,7 +8,6 @@ Usage:
 Where, number-of-aux-pnt is optional and has default value of 80. Please see `*.bat` file in testcase for more detail.
 
 Supported input grid file format:
-+ ANSYS Fluent case(*.cas,*.cas.h5)
 + UGRID(*.ugrid)
 
 Deforming file format (ASCII):
